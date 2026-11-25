@@ -10,8 +10,8 @@ AI coding assistants write code that works, but rarely code that is secure by de
 This skill provides the actionable audit workflows, code patterns, and verification tests required to secure applications prior to launch.
 
 > **Related Companion Skills**:
-> - For async race conditions, Windows path/locking, and database deadlocks, see the [engineering-reliability skill](file:///C:/Users/SPEED/.gemini/config/skills/engineering-reliability/SKILL.md).
-> - For tactile physics, mobile ergonomics, and anti-slop visual craft, see the [craft-design skill](file:///C:/Users/SPEED/.gemini/config/skills/craft-design/SKILL.md).
+> - For async race conditions, Windows path/locking, and database deadlocks, see the [engineering-reliability skill](./skills/engineering-reliability/SKILL.md).
+> - For tactile physics, mobile ergonomics, and anti-slop visual craft, see the [craft-design skill](./skills/craft-design/SKILL.md).
 
 ---
 

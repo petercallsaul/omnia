@@ -10,8 +10,8 @@ Inspired by Moatassem Abdelhaleem (@moatassem.ai) and the anti-slop design movem
 > **Golden Rule**: *"ما تعملش stop لما يشتغل، كمل لحد ما يبقى polished"* (Never stop when it merely works; keep going until it is polished).
 >
 > **Related Companion Skills**:
-> - For async race conditions, Windows path/locking, and database deadlocks, see the [engineering-reliability skill](file:///C:/Users/SPEED/.gemini/config/skills/engineering-reliability/SKILL.md).
-> - For RLS, BOLA/IDOR, and serverless pooling security, see the [vibe-security skill](file:///C:/Users/SPEED/.gemini/config/skills/vibe-security/SKILL.md).
+> - For async race conditions, Windows path/locking, and database deadlocks, see the [engineering-reliability skill](./skills/engineering-reliability/SKILL.md).
+> - For RLS, BOLA/IDOR, and serverless pooling security, see the [vibe-security skill](./skills/vibe-security/SKILL.md).
 
 ---
 
